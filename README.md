@@ -5,7 +5,7 @@ Date created: 2019/03/21
 Python bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+The project is aimed at analysing the use of bike share in the US.
 
 ### Files used
 Include the files used
