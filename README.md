@@ -11,4 +11,4 @@ The project is aimed at analysing the use of bike share in the US.
 bikeshare.py, washington.csv, new_york_city.csv, and chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity student hub and mentors
