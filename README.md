@@ -12,3 +12,6 @@ bikeshare.py, washington.csv, new_york_city.csv, and chicago.csv
 
 ### Credits
 Udacity student hub and mentors
+
+### Remarks
+Please use python 3 to run the syntax.
